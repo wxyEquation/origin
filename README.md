@@ -8,7 +8,7 @@ This is my first markdown file. Here is some basic format tryout.
 **bold**  
 ~~delete~~  
 <u>underline</u>  
-^[footnote]: (should a group of footnote be feetnote?)
+^[footnote]: (should a group of footnote be feetnote?)  
 
 ### 2. Reference
 > "In their wings, in their trees;  
@@ -34,9 +34,9 @@ This is my first markdown file. Here is some basic format tryout.
 or:
 
 1. Text format
-  1. Italian
-  2. bold
-  3. delete
+    1. Italian
+    2. bold
+    3. delete
 2. Reference
 3. Dividers
 ...
@@ -74,9 +74,9 @@ $$
 L^aT_eX
 $$
 
-### 10 <kbd>  
+### 10 \<kbd>  
 Try<kbd>Fn</kbd>+<kbd>Alt</kbd>+<kbd>f4</kbd>
+
 =======
 # origin  
 My random projects trash can
->>>>>>> 5c20692bd3b2b2d08d5122898e11b8f929a12288
