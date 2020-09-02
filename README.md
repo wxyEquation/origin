@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Hello World!
 
 This is my first markdown file. Here is some basic format tryout.
@@ -73,3 +74,7 @@ $$
 
 ###10 <kbd>
 Try<kbd>Fn</kbd>+<kbd>Alt</kbd>+<kbd>f4</kbd>
+=======
+# origin
+My random projects trash can
+>>>>>>> 5c20692bd3b2b2d08d5122898e11b8f929a12288
