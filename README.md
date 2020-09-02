@@ -1,23 +1,24 @@
-<<<<<<< HEAD
-#Hello World!
+
+# Hello World!
 
 This is my first markdown file. Here is some basic format tryout.
 
-###1. Text Format
+### 1. Text Format
 *Italian*
-**bold**
-~~delete~~
-<u>underline</u>
-[^footnote](should a group of footnote be feetnote?)
+**bold**  
+~~delete~~  
+<u>underline</u>  
+^[footnote]: (should a group of footnote be feetnote?)
 
-###2. Reference
-> "In their wings, in their trees;
+### 2. Reference
+> "In their wings, in their trees;  
 >  All things die, be at peace!"
 
-###3. Dividers
----
+### 3. Dividers
 
-###4. Lists
+***
+
+### 4. Lists
 
 + Text Format
   - Italian
@@ -40,16 +41,16 @@ or:
 3. Dividers
 ...
 
-###5.Website Links
+### 5.Website Links
 [My github page](http://github.com/wxyEquation)
 or just
 <http://github.com/wxyEquation>
 
-###6. Images
+### 6. Images
 ![logo](https:://avatars3.githubusercontent.com/u/69901958?s=400&v=4)
 
-###7. Codes
-* a block of code:
+### 7. Codes  
+* a block of code:  
 `printf("Hello World");`
 
 * a passage of code:
@@ -60,21 +61,22 @@ int randomNumber(){
 }
 ```
 
-###8. Tables
--|1|2|3|4
+### 8. Tables
+0|1|2|3|4
+-|-|-|-|-
 1|1|2|3|4
 2|2|1|4|3
 3|3|4|1|2
 4|4|3|2|1
 
-###9. LaTeX
+### 9. LaTeX  
 $$
 L^aT_eX
 $$
 
-###10 <kbd>
+### 10 <kbd>  
 Try<kbd>Fn</kbd>+<kbd>Alt</kbd>+<kbd>f4</kbd>
 =======
-# origin
+# origin  
 My random projects trash can
 >>>>>>> 5c20692bd3b2b2d08d5122898e11b8f929a12288
