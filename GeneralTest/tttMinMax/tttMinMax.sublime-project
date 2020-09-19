@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"Tic.h.gch"
+			],
+			"path": "."
+		}
+	]
+}
