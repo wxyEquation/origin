@@ -4,6 +4,90 @@
 		"selected_items":
 		[
 			[
+				"p",
+				"parent"
+			],
+			[
+				"v",
+				"vector\tstd::vector"
+			],
+			[
+				"t",
+				"typename"
+			],
+			[
+				"b",
+				"beginend\t$1.begin(), $1.end()"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ne",
+				"negInf"
+			],
+			[
+				"get",
+				"getValue"
+			],
+			[
+				"te",
+				"typename"
+			],
+			[
+				"max",
+				"max_depth"
+			],
+			[
+				"cu",
+				"current_index"
+			],
+			[
+				"cur",
+				"current_index"
+			],
+			[
+				"child",
+				"childNum"
+			],
+			[
+				"c",
+				"childs"
+			],
+			[
+				"curr",
+				"current_index"
+			],
+			[
+				"set",
+				"setValue"
+			],
+			[
+				"someth",
+				"something2"
+			],
+			[
+				"some",
+				"something"
+			],
+			[
+				"someh",
+				"something2"
+			],
+			[
+				"s",
+				"set"
+			],
+			[
+				"data",
+				"treeData"
+			],
+			[
 				"std",
 				"stdio.h\tstandard header"
 			],
@@ -14,14 +98,10 @@
 			[
 				"fib",
 				"fibmodule_wrap"
-			],
-			[
-				"s",
-				"SRC"
 			]
 		]
 	},
-	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
 	"build_system_choices":
 	[
 		[
@@ -38,6 +118,22 @@
 			[
 				"Packages/C++/C Single File.sublime-build",
 				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
 			]
 		],
 		[
@@ -81,6 +177,10 @@
 		"selected_items":
 		[
 			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
 				"select",
 				"Bookmarks: Select All"
 			],
@@ -103,10 +203,6 @@
 			[
 				"swig",
 				"Set Syntax: Swig"
-			],
-			[
-				"packa",
-				"Package Control: Install Package"
 			],
 			[
 				"package ins",
@@ -177,6 +273,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/wxy_E/Desktop/origin/GeneralTest/tttMinMax/test.cpp",
+		"/C/Users/wxy_E/Desktop/origin/QtProjects/MinMaxforJeff/plusgame.cpp",
 		"/C/swigwin-4.0.2/Examples/java/pointer/Makefile",
 		"/C/swigwin-4.0.2/Examples/python/docstrings/Makefile",
 		"/C/Users/wxy_E/AppData/Roaming/Sublime Text 3/Packages/User/mingw32-make.sublime-build",
@@ -211,7 +309,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 44.0
 	},
 	"find_in_files":
 	{
@@ -225,6 +323,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"isUknown",
+			"isUnknown",
 			"Game"
 		],
 		"highlight": true,
@@ -243,11 +343,11 @@
 	},
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 31.0
 	},
 	"input":
 	{
-		"height": 40.0
+		"height": 44.0
 	},
 	"layout":
 	{
@@ -280,7 +380,7 @@
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "Packages/User/mingw32-make.sublime-build",
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
 	"replace":
 	{
 		"height": 71.0
@@ -316,7 +416,7 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,

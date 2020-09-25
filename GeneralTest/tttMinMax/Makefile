@@ -1,5 +1,5 @@
 test: test.o Tic.o
-	gcc test.o Tic.o -o test
+	g++ test.o Tic.o -o test
 
 test.o: test.c
 	gcc -c test.c
