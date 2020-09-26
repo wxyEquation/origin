@@ -18,13 +18,13 @@ public:
 	data getData() const    {return tree_data;}
 	rating getValue() const {return value;}
 	virtual bool   setData(data new_data) {tree_data = new_data; return true;}
-	virtual bool   setValue(rating value) {this.value = value; return true;}
+	virtual bool   setValue(rating value) {this->value = value; return true;}
 	
 	virtual rating setValue()  =0;
 	virtual bool   isEnd() =0;
 
 	virtual bool setChilds() =0;
-	const std::vector<move> childs;
+	std::vector<move> childs;
 
 	virtual rating inf() const =0;
 	virtual rating negInf() const =0;

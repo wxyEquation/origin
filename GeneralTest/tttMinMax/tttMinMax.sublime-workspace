@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"temp",
+				"temp1"
+			],
+			[
+				"set",
+				"setGame"
+			],
+			[
+				"te",
+				"temp1"
+			],
+			[
+				"tem",
+				"temp2"
+			],
+			[
 				"p",
 				"parent"
 			],
@@ -36,10 +52,6 @@
 				"getValue"
 			],
 			[
-				"te",
-				"typename"
-			],
-			[
 				"max",
 				"max_depth"
 			],
@@ -62,10 +74,6 @@
 			[
 				"curr",
 				"current_index"
-			],
-			[
-				"set",
-				"setValue"
 			],
 			[
 				"someth",
@@ -273,6 +281,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/wxy_E/Desktop/origin/GeneralTest/tttMinMax/tttMinMax.sublime-project",
+		"/C/Users/wxy_E/Desktop/origin/GeneralTest/tttMinMax/Tic.h",
 		"/C/Users/wxy_E/Desktop/origin/GeneralTest/tttMinMax/test.cpp",
 		"/C/Users/wxy_E/Desktop/origin/QtProjects/MinMaxforJeff/plusgame.cpp",
 		"/C/swigwin-4.0.2/Examples/java/pointer/Makefile",
@@ -285,7 +295,6 @@
 		"/C/swigwin-4.0.2/Examples/python/docstrings/example.cxx",
 		"/C/swigwin-4.0.2/Examples/chicken/egg/Makefile",
 		"/C/Users/wxy_E/Desktop/origin/GeneralTest/tttMinMax/MakeFile",
-		"/C/Users/wxy_E/Desktop/origin/GeneralTest/tttMinMax/tttMinMax.sublime-project",
 		"/C/Users/wxy_E/Desktop/origin/GeneralTest/Cpython/_fibmodule.pyd",
 		"/C/Users/wxy_E/Desktop/origin/PythonProject/GeneralTest/test.c",
 		"/C/Users/wxy_E/Desktop/origin/PythonProject/GeneralTest/fibmodule.c",
@@ -380,7 +389,7 @@
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"pinned_build_system": "Packages/User/mingw32-make.sublime-build",
 	"replace":
 	{
 		"height": 71.0

@@ -80,3 +80,9 @@ rating abPruning (target goal, std::vector<move> prediction, GameTree<data, move
 	prediction->push_back(next);
 	return fin;
 }
+
+template<typename data, typename move, typename rating>
+rating abPruning (target goal, std::vector<move>* prediction, GameTree<data, move, rating>* current, int depth)
+{
+	return abPruning(goal, prediction, current, current->negInf(), current->inf(), depth);
+}

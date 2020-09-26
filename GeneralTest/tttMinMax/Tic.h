@@ -8,17 +8,21 @@ struct game{
 	int Row[3];
 	int Col[3];
 	int Dag[2];
-	int Board[3][3];
+	Piece Board[3][3];
+
+	Piece cur_player;
 };
 
 Piece ticGet(int x, int y);
 
 void ticReset();
 
-_Bool ticPlay(Piece player, int x, int y);
+bool ticPlay(Piece player, int x, int y);
 
 Piece isWin();
 
+struct game getGame();
+void setGame(struct game curGame);
 
 
 #endif

@@ -1,11 +1,23 @@
-test: test.o Tic.o
-	g++ test.o Tic.o -o test
+OBJ = GameTree.o MinMax.o Tic.o interface.o test.o
 
-test.o: test.c
-	gcc -c test.c
+test: $(OBJ)
+	g++ $(OBJ) -o test
 
-Tic.o: Tic.c Tic.h
-	gcc -c Tic.c Tic.h
+test.o: test.cpp
+	g++ -c test.cpp
+
+interface.o: interface.cpp
+	g++ -c interface.cpp 
+
+Tic.o: Tic.cpp
+	g++ -c Tic.cpp
+
+MinMax.o: MinMax.cpp
+	g++ -c MinMax.cpp
+
+GameTree.o: GameTree.cpp 
+	g++ -c GameTree.cpp
+
 
 .PHONY: clean
 clean: 
