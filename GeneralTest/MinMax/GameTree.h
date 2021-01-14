@@ -15,8 +15,8 @@ public:
 	rating    getValue() const {return value;}
 	data      getData()  const {return tree_data;}
 
-	virtual bool   setData(data new_data) {tree_data = new_data; return true;}
-	virtual bool   setValue(rating value) {this->value = value; return true;}
+	virtual bool setData(data new_data) {tree_data = new_data; return true;}
+	virtual bool setValue(rating value) {this->value = value; return true;}
 	
 	virtual GameTree* toChild(move index) const;
 	virtual data childData(move index) const =0;

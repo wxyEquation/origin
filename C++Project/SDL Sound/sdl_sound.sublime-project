@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+
+	"build_systems":
+	[
+		{
+			"name": "Build debug",
+			"working_dir": "${project_path}",
+			"cmd": "g++ -c *.cpp -std=c++14 -g -Wall -m64 -mwindows -I include -I C:/SDL2-w64/x86_64-w64-mingw32/include && g++ *.o -o main -L C:/SDL2-w64/x86_64-w64-mingw32/lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer && start main",
+			"selector": "source.c++",
+			"shell": true
+		}
+	]
+}

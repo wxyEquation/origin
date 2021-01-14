@@ -1,0 +1,462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sr",
+				"string"
+			],
+			[
+				"temp",
+				"temp1"
+			],
+			[
+				"set",
+				"setGame"
+			],
+			[
+				"te",
+				"temp1"
+			],
+			[
+				"tem",
+				"temp2"
+			],
+			[
+				"p",
+				"parent"
+			],
+			[
+				"v",
+				"vector\tstd::vector"
+			],
+			[
+				"t",
+				"typename"
+			],
+			[
+				"b",
+				"beginend\t$1.begin(), $1.end()"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ne",
+				"negInf"
+			],
+			[
+				"get",
+				"getValue"
+			],
+			[
+				"max",
+				"max_depth"
+			],
+			[
+				"cu",
+				"current_index"
+			],
+			[
+				"cur",
+				"current_index"
+			],
+			[
+				"child",
+				"childNum"
+			],
+			[
+				"c",
+				"childs"
+			],
+			[
+				"curr",
+				"current_index"
+			],
+			[
+				"someth",
+				"something2"
+			],
+			[
+				"some",
+				"something"
+			],
+			[
+				"someh",
+				"something2"
+			],
+			[
+				"s",
+				"set"
+			],
+			[
+				"data",
+				"treeData"
+			],
+			[
+				"std",
+				"stdio.h\tstandard header"
+			],
+			[
+				"fibmodu",
+				"fibmodule_wrap"
+			],
+			[
+				"fib",
+				"fibmodule_wrap"
+			]
+		]
+	},
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"select",
+				"Bookmarks: Select All"
+			],
+			[
+				"package resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"swig",
+				"Set Syntax: Swig"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"resoucsr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packageResou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"build",
+				"Build With: C Single File - Run"
+			],
+			[
+				"recour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/wxy_E/Desktop/Oxford DataAnalyse/DA01/hubble.csv",
+		"/C/Users/wxy_E/Desktop/origin/GeneralTest/tttMinMax/tttMinMax.sublime-project",
+		"/C/Users/wxy_E/Desktop/origin/GeneralTest/tttMinMax/Tic.h",
+		"/C/Users/wxy_E/Desktop/origin/GeneralTest/tttMinMax/test.cpp",
+		"/C/Users/wxy_E/Desktop/origin/QtProjects/MinMaxforJeff/plusgame.cpp",
+		"/C/swigwin-4.0.2/Examples/java/pointer/Makefile",
+		"/C/swigwin-4.0.2/Examples/python/docstrings/Makefile",
+		"/C/Users/wxy_E/AppData/Roaming/Sublime Text 3/Packages/User/mingw32-make.sublime-build",
+		"/C/Users/wxy_E/Desktop/origin/GeneralTest/tttMinMax/Tic.h.gch",
+		"/C/Users/wxy_E/Desktop/origin/GeneralTest/Cpython/Makefile",
+		"/C/swigwin-4.0.2/Examples/python/docstrings/example.i",
+		"/C/swigwin-4.0.2/Examples/python/docstrings/example.h",
+		"/C/swigwin-4.0.2/Examples/python/docstrings/example.cxx",
+		"/C/swigwin-4.0.2/Examples/chicken/egg/Makefile",
+		"/C/Users/wxy_E/Desktop/origin/GeneralTest/tttMinMax/MakeFile",
+		"/C/Users/wxy_E/Desktop/origin/GeneralTest/Cpython/_fibmodule.pyd",
+		"/C/Users/wxy_E/Desktop/origin/PythonProject/GeneralTest/test.c",
+		"/C/Users/wxy_E/Desktop/origin/PythonProject/GeneralTest/fibmodule.c",
+		"/C/Users/wxy_E/Desktop/origin/PythonProject/GeneralTest/Makefile",
+		"/C/swigwin-4.0.2/Examples/python/simple/Makefile",
+		"/C/Users/wxy_E/AppData/Roaming/Sublime Text 3/Packages/C++/C Single File.sublime-build",
+		"/C/Users/wxy_E/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/readme.md",
+		"/C/Users/wxy_E/AppData/Roaming/Sublime Text 3/Packages/SyncedSidebarBg/SyncedSidebarBg.py",
+		"/C/Users/wxy_E/AppData/Roaming/Sublime Text 3/Packages/SyncedSidebarBg/README.md",
+		"/C/Users/wxy_E/AppData/Roaming/Sublime Text 3/Packages/PackageResourceViewer/README.md",
+		"/C/Users/wxy_E/AppData/Roaming/Sublime Text 3/Packages/SyncedSidebarBg/package-metadata.json",
+		"/C/Users/wxy_E/AppData/Roaming/Sublime Text 3/Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+		"/C/Users/wxy_E/AppData/Roaming/Sublime Text 3/Packages/SyncedSidebarBg/SyncedSidebarBg.sublime-settings",
+		"/C/Users/wxy_E/Desktop/origin/README.md",
+		"/C/Users/wxy_E/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/wxy_E/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/wxy_E/Desktop/origin/QtProjects/MandelPainter/Mandel.h",
+		"/C/Users/wxy_E/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/wxy_E/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements.sublime-package",
+		"/C/Users/wxy_E/Desktop/test.txt"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"isUknown",
+			"isUnknown",
+			"Game"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"inGame"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C Single File.sublime-build",
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
